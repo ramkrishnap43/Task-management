@@ -1,0 +1,40 @@
+.container{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+}
+div{
+    margin-bottom: 20px;
+}
+.inputBox{
+    height: 25px;
+    width: 30%;
+    padding: 10px;
+}
+.button{
+    height: 40px;
+    border: 1px solid rgb(255, 75, 47);
+    width: 5%;
+    cursor: pointer;
+    background-color: rgb(55, 204, 214);
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.button:hover{
+    background-color: rgb(202, 95, 186);
+    color: white;
+}
+li button{
+    margin-left: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    
+}
+li button:hover{
+    background-color: #0056b3;
+}
